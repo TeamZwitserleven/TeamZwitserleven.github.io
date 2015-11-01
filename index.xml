@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Zwitserleven</title>
+    <link>http://www.teamzwitserleven.nl/</link>
+    <description>Recent content on Team Zwitserleven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl-nl</language>
+    <managingEditor>info@teamzwitserleven.nl (Ewout Prangsma)</managingEditor>
+    <webMaster>info@teamzwitserleven.nl (Ewout Prangsma)</webMaster>
+    <atom:link href="http://www.teamzwitserleven.nl/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
