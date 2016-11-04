@@ -3107,19 +3107,6 @@
 					display: none;
 				}
 
-		/* News */
-
-		.news {
-			border: 1px solid silver;
-			border-radius: 5px;
-			padding: 1em;
-			margin-bottom: 1em;
-			background-color: lightyellow;
-		}
-		.news p {
-			margin: 0;
-		}
-
 		/* Footer */
 
 			#footer .copyright li {
@@ -3135,3 +3122,17 @@
 	body: {
 	    margin: 0px;
 	}
+
+/* News */
+
+.news {
+	border: 1px solid silver;
+	border-radius: 5px;
+	padding: 1em;
+	margin-bottom: 1em;
+	background-color: lightyellow;
+}
+.news p {
+	margin: 0;
+}
+
